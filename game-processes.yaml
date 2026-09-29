@@ -16,6 +16,7 @@ payload:
   - 'PROCESS-NAME,TslGame.exe'
   - 'PROCESS-NAME,TheFinals.exe'
   - 'PROCESS-NAME,Discovery.exe'
+  - 'PROCESS-NAME,Discovery-d.exe'
   - 'PROCESS-NAME,Splitgate.exe'
   - 'PROCESS-NAME,RogueCompany.exe'
   - 'PROCESS-NAME,HaloInfinite.exe'
